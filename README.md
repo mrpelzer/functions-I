@@ -5,7 +5,7 @@ This project is a **JavaScript functions review** designed to practice using:
 - Event listeners  
 - DOM manipulation  
 - Input/output form handling  
-- Basic math formulas
+- Basic math formulas (values CANNOT be divided by 0)
 - Calling and passing values to functions  
 
 ---
@@ -16,7 +16,7 @@ By completing this project, students will be able to:
 2. Add and manage **event listeners** for user interactions (e.g., button clicks).
 3. Use `document.querySelector()` or `document.getElementById()` or `document.getElelmentByClassname()` to target specific HTML elements.
 4. Retrieve user input values using `.value`.
-5. Parse the values retrieved using `.parseInt( )`
+5. Parse the values retrieved using `.parseFloat( )`
 6. Perform **math calculations** (addition, subtraction, multiplication, division, area, perimeter, etc.).
 7. Display results dynamically back into the HTML using `.textContent` or `.innerHTML` or `.insertAdjacentHTML( )` .
 
@@ -31,7 +31,9 @@ Your project must include the following:
 ### JavaScript
 - Use **event listeners** (e.g., `addEventListener('click', functionName)` or `onclick=`).
 - Define **functions** that perform specific calculations (e.g., area of a circle, sum of two numbers).
-- Use `document.querySelector()` or `getElementById()` to:
+- Use of backticks "` `"
+- Use of template literals ${ }
+- Use `document.querySelector()` or `getElementById()` or `getElementByClassName( )` to:
   - Access input fields.
   - Display results on the page.
 - Retrieve values using `.value` and convert them to numbers (`parseFloat()`).
