@@ -33,6 +33,7 @@ Your project must include the following:
 - Define **functions** that perform specific calculations (e.g., area of a circle, sum of two numbers).
 - Use of backticks "` `"
 - Use of template literals ${ }
+- Conditionals (check for 0 values before calculating)
 - Use `document.querySelector()` or `getElementById()` or `getElementByClassName( )` to:
   - Access input fields.
   - Display results on the page.
