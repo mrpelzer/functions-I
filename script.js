@@ -1,5 +1,6 @@
 
-// Basic Operations - Example
+// Basic Operations - Example //
+// if you wish to use for the select menu //
 function handleBasicOperation(type) {
     const num1;
     const num2;
