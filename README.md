@@ -20,7 +20,7 @@ By completing this project, students will be able to:
 6. Perform **math calculations** (addition, subtraction, multiplication, division, area, perimeter, etc.).
 7. Display results dynamically back into the HTML using `.textContent` or `.innerHTML` or `.insertAdjacentHTML( )` .
 
-[Demo](https://output.jsbin.com/sadizil)
+[Demo](https://output.jsbin.com/sadizil) [https://output.jsbin.com/sadizil](https://output.jsbin.com/sadizil)
 ---
 
 ## 🧩 Project Requirements
